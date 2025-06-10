@@ -73,7 +73,7 @@ inventory-forecasting-optimization/
 │   ├── rf_preds.pkl
 │   └── y_test.pkl
 │
-├── visuals/                      # Generated visualizations and plots
+├── visuals/                      # Generated visualizations and plots.
 │   ├── sales_trends.png
 │   └── model_comparisons.png
 
