@@ -25,11 +25,6 @@ Retail businesses face a constant challenge in balancing stock levels — overst
 
 ---
 
-## 🗂️ Project Structure
-
-
----
-
 ## 📊 Model Performance
 
 | Metric       | Random Forest | XGBoost |
